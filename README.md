@@ -28,7 +28,7 @@ This project directly implements several Course Outcomes from the Fundamentals i
 
 
 * **Dynamic Learning:** Uses assertz to add user preferences to the knowledge base at runtime.
-![Use of Assertz](assertz.png)
+![Use of Assertz](Screenshots/assertz.png)
 
 
 ***4. Setup & Installation***
@@ -69,11 +69,11 @@ The AI will query the Prolog brain and display all matching career paths.
 
 ***7. Results:***
 
-![Result when in domain](result.png)
+![Result when in domain](Screenshots/result.png)
 When entered trait is present in data
 
-![Result when not in domain](notdomain.png)
+![Result when not in domain](Screenshots/notdomain.png)
 When entered trait is not in domain
 
-![When Prolog file is missing](missingfile.png)
+![When Prolog file is missing](Screenshots/missingfile.png)
 When Knowledge base is missing
